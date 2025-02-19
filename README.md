@@ -4,12 +4,14 @@ Important Machine Coding Problems asked in interviews
 
 1. [Design a folder directory similar to VS Code](./Folder_directory_similar_to_vscode/)
 
-2. Design TicTacToe Game
+2. [Design a nested checkbox system](./Nested_checkbox_system/)
 
-3. Design UI of XYZ using HTML CSS
+3. Design TicTacToe Game
 
-4. Design Calculator
+4. Design UI of XYZ using HTML CSS
 
-5. Pagination in React
+5. Design Calculator
 
-6. Infinite Scroll in React
+6. Pagination in React
+
+7. Infinite Scroll in React
